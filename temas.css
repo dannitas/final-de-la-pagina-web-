@@ -1,0 +1,76 @@
+.contenedor{
+    background-color: beige;
+width: 100%;
+height: 160px;
+
+}
+.encabezado{
+background-color: gray;
+width: 100%;
+height: 200px;
+text-align: center;
+font-size: 30px;
+background-image: url("Rosados.png");
+font-family: Arial, Helvetica, sans-serif;
+}
+.menu{
+background-color: beige;
+width: 100%;
+height: 80px;
+text-align: center;
+font-size: 16px;
+color: rgb(19, 18, 18);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+display: flex;
+font-family: Arial, Helvetica, sans-serif;
+}
+.contenedor2{
+background-color: blueviolet;
+width: 100%;
+height: 1200px;
+display: flex;
+background-image: url("lindo.jpg");
+font-family: Arial, Helvetica, sans-serif;
+}
+.derecha{
+width: 20%;
+height: 1200px;
+background-color: rgb(10, 158, 163);
+margin:2px ;
+}
+.centro{
+width: 60%;
+height: 1200px;
+border-right-color: rgb(94, 21, 55);
+margin: 2px;
+}
+.tecnologia{
+width: 120px;
+height: 78px;
+border-color: darkgray;
+margin: 2px;
+}
+.ingles{
+width: 120px; ;
+height: 78px;
+background-color: darksalmon;
+margin: 2px;
+}
+.matematicas{
+width: 120px;
+height: 78px;
+background-color: deeppink;
+margin: 2px;
+}
+.biologia{
+width: 120px;
+height: 78px;
+background-color: magenta;
+margin: 2px;
+}
+.sociales{
+width: 120px;
+height: 78px;
+background-color: peru;
+margin: 2px;
+}
